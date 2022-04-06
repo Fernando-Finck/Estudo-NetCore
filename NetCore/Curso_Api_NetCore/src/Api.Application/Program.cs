@@ -11,6 +11,7 @@ namespace application
 {
     public class Program
     {
+        //Teste V2 Git        
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
